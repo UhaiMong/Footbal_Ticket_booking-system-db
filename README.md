@@ -123,6 +123,6 @@ _(Skips Real Madrid vs Barcelona at 150)_
 
 [ERD URL](https://drawsql.app/teams/uhai-mong/diagrams/footbal-ticket-booking-erd)
 
-[Github Repo](https://drawsql.app/teams/uhai-mong/diagrams/footbal-ticket-booking-erd)
+[Github Repo](https://github.com/UhaiMong/Footbal_Ticket_booking-system-db.git)
 
 [Interview Video Drive Link](https://drive.google.com/file/d/1d08rJYW4ObNsP8Etx-WzStOPS_DKpwaH/view?usp=sharing)
